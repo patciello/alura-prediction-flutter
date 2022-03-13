@@ -8,9 +8,9 @@
             <value value="3100afd41ef79300" />
           </Key>
         </key>
-        <name value="Device" />
-        <target value="Android 1.0" />
-        <api value="1" />
+        <name value="samsung SM-T561" />
+        <target value="Android 6.0" />
+        <api value="23" />
       </PhysicalDevice>
     </physicalDevices>
   </component>
